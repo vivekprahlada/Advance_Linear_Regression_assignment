@@ -14,7 +14,7 @@ Surprise housing firm wants to predict the house prices to support their busines
 - Provide general information about your project here.
 
 - Project background: As part of the project, regularized linear regression method of Ridge and Lasso are used to derive the coefficients and therefore predict the house prices while also understand the impact of the predictors on the house sale price
-- 
+
 - Business problem: Company "Surprise Housing" wants to enter Australian market. Their business model is to buy houses at lesser price renovate and sell it to higher prices. They have collected some attributes and housing price to understand how the attributes influence the housing price and also to predict the house price given the attributes. Therefore it is important to have a generalized model where the influence of the attributes can be explained clearly (having model with correlated attributes) and prediction of the house prices can be made with good accuracy. Outcome of the model shall be used by management for further buisness adjustments
 
 - Dataset: A dataset "train.csv" was provided with 1460 data points and 80 predictors
